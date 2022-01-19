@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Project Library</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="login">Login</string>
+</resources>

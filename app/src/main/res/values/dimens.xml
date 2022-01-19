@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttons_margin_startlogin">16dp</dimen>
+    <dimen name="padding_startlogin">8dp</dimen>
+    <dimen name="buttons_size">55dp</dimen>
+</resources>
