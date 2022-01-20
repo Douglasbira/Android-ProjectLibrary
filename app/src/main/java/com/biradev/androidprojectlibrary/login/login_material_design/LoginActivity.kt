@@ -1,12 +1,12 @@
-package com.biradev.androidprojectlibrary.login.project1
+package com.biradev.androidprojectlibrary.login.login_material_design
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
 import com.biradev.androidprojectlibrary.R
 
-class StartLoginActivity : AppCompatActivity() {
+class LoginActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_start_login)
+        setContentView(R.layout.activity_login)
     }
 }

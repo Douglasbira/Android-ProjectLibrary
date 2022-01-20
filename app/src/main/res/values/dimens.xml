@@ -3,4 +3,5 @@
     <dimen name="buttons_margin_startlogin">16dp</dimen>
     <dimen name="padding_startlogin">8dp</dimen>
     <dimen name="buttons_size">55dp</dimen>
+    <dimen name="image_margin_signup">90dp</dimen>
 </resources>
